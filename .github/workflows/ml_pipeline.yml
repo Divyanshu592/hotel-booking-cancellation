@@ -48,4 +48,4 @@ jobs:
         name: trained-models
         path: |
           models/
-          graphs/ 
+          graphs/

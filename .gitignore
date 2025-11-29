@@ -1,9 +1,3 @@
-# Graph files
-graphs/
-
-# Model files
-models/
-
 # Virtual environment
 venv/
 env/
